@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshen Perera</h1>
-<h3 align="center">A passionate software engineer from Sri Lanka</h3>
+<h3 align="center">A passionate software engineering student from Sri Lanka</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Roshen-Perera&icon=0&color=0)](https://visitcount.itsvg.in)
 
