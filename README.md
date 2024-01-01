@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roshen Perera</h1>
 <h3 align="center">A passionate software engineering student from Sri Lanka</h3>
 
-[![](https://visitcount.itsvg.in/api?id=Roshen-Perera&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Roshen-Perera&label=Profile%20views&color=0e75b6&style=flat" alt="Roshen-Perera" /> </p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Roshen-Perera&theme=radical&no-frame=false&no-bg=true&margin-w=4)
