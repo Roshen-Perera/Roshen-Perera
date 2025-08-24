@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Roshen-Perera&label=Profile%20views&color=0e75b6&style=flat" alt="Roshen-Perera" /> </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Roshen-Perera&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-trophies.vercel.app/?username=Roshen-Perera&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 # 📊 GitHub Stats:
